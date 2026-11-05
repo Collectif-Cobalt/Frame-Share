@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.11.1</title>
+      <description><![CDATA[
+<h3>Mises à jour (Sparkle) lues dans l'organisation Collectif-Cobalt : le dépôt -Share y déménage</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 23:44:23 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Frame-Share/releases/download/v0.11.1/Frame-0.11.1.zip"
+                 sparkle:edSignature="Bi6llQUYZLSCWnbdjaXFgBNdVPbri2QDoQpcVQk2a8FK8yoS7cSDxn5WqJjtOjF5ikSMt6W0UHOfIx83rlARBA=="
+                 length="2831974"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.11.0</title>
       <description><![CDATA[
 <h3>F4 : barre d'outils de FigCraft (pilule, groupes à menu, Commentaire, Actions, bouton d'aide)</h3>
