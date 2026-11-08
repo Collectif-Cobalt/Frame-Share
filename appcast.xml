@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.12.0</title>
+      <description><![CDATA[
+<h3>G4 : import depuis Figma (plugin « Vers Frame », conversion des cadres, textes, images, composants, styles et variables)</h3>
+      ]]></description>
+      <pubDate>Sun, 08 Nov 2026 02:36:58 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.12.0/Frame-0.12.0.zip"
+                 sparkle:edSignature="o+ySl2uJDQS4j3dfKCpkcC0BgbEMFx+wJYcIgzwXtEE6xxSsOPX1JJ4RPiNrKBEHEkadCmShnaf2BDPC6frWBQ=="
+                 length="2851925"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.11.1</title>
       <description><![CDATA[
 <h3>Mises à jour (Sparkle) lues dans l'organisation Collectif-Cobalt : le dépôt -Share y déménage</h3>
