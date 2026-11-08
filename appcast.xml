@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.12.2</title>
+      <description><![CDATA[
+<h3>Import Figma : ramené en (0, 0) et vue cadrée dessus ; place et rotation tirées de la transformation (un calque retourné garde sa place)</h3>
+      ]]></description>
+      <pubDate>Sun, 08 Nov 2026 03:01:33 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.12.2/Frame-0.12.2.zip"
+                 sparkle:edSignature="rEeXr5QyoUf4dhNUBs9C5e53WznOhy/q6p6+vpkeL+gmR+AxTWVh04sRKps0mlZzAWyj9yHFNvpqF3hAaHMRAQ=="
+                 length="2853553"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.12.1</title>
       <description><![CDATA[
 <h3>App Mac : le panneau de fichiers accepte ce que la page annonce (fichier Figma, polices), plus seulement des images</h3>
