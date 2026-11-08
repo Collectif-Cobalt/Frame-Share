@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.12.1</title>
+      <description><![CDATA[
+<h3>App Mac : le panneau de fichiers accepte ce que la page annonce (fichier Figma, polices), plus seulement des images</h3>
+      ]]></description>
+      <pubDate>Sun, 08 Nov 2026 02:52:59 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.12.1/Frame-0.12.1.zip"
+                 sparkle:edSignature="4u+3tyqhQl+lD0q+TqCJUXE/9IkbJNYeFhuvqbZmfKy+H2GeK1jEIe9WUwVeCnb4Hzlw5H1z53ZfNQ23/o2NAA=="
+                 length="2853078"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.12.0</title>
       <description><![CDATA[
 <h3>G4 : import depuis Figma (plugin « Vers Frame », conversion des cadres, textes, images, composants, styles et variables)</h3>
