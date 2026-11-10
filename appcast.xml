@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.13.0</title>
+      <description><![CDATA[
+<h3>H3 : les huit gabarits Cobalt réglables (textes, photos, accents) ; évolution H faite</h3>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 07:53:17 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.13.0/Frame-0.13.0.zip"
+                 sparkle:edSignature="kdYONxaaZAwin0H6Jj7fGs9ggGWVj6UB79DsgC/t/qPH25BD0gMgB012twH2hDteHfAKIaeyT2GDAsuvBD9TCA=="
+                 length="2857293"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.12.3</title>
       <description><![CDATA[
 <h3>Plugin Vers Frame : un set de variantes en erreur ou un calque illisible sont sautés et dits, au lieu de tout arrêter</h3>
