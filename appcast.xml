@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.12.3</title>
+      <description><![CDATA[
+<h3>Plugin Vers Frame : un set de variantes en erreur ou un calque illisible sont sautés et dits, au lieu de tout arrêter</h3>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 00:31:03 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.12.3/Frame-0.12.3.zip"
+                 sparkle:edSignature="bphrWXjqsledsH6gBGn/xI4w6fTxqsJJL5zAKgjfy2aJiw6W3iZBjs4TIGUXfBl6fU5P+zie+8iqWePN04ZRDA=="
+                 length="2854935"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.12.2</title>
       <description><![CDATA[
 <h3>Import Figma : ramené en (0, 0) et vue cadrée dessus ; place et rotation tirées de la transformation (un calque retourné garde sa place)</h3>
