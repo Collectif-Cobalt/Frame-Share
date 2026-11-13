@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.14.0</title>
+      <description><![CDATA[
+<h3>Champs de nombres : calculs (100/2, 3*40+8) et pourcentages (50% d'une largeur) ; ↑↓ sur des valeurs mixtes ne met plus tout à 1 ; Calques : déposer sous une ligne de résultats de recherche ne la remplit plus</h3>
+      ]]></description>
+      <pubDate>Fri, 13 Nov 2026 13:43:21 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.14.0/Frame-0.14.0.zip"
+                 sparkle:edSignature="uM4sGK5L+D/fKpA0XGRp1a34Xlc6Ivn/CHuXbrh3AUKq0+xIH1d9kr2b/+Eu5EF8O31CL5THcHDYvCzh0SI7Ag=="
+                 length="2912287"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.3</title>
       <description><![CDATA[
 <h3>Aperçus de l'accueil : premier cadre de la page, second envoi une fois les photos chargées, fond clair lisible dans les deux thèmes</h3>
