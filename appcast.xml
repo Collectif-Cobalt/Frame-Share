@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.14.2</title>
+      <description><![CDATA[
+<h3>Formes Cobalt : logo « collectif cobalt. » et signature (logo, collectif cobalt, devise, site), textes vectorisés</h3>
+      ]]></description>
+      <pubDate>Fri, 13 Nov 2026 18:27:51 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.14.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.14.2/Frame-0.14.2.zip"
+                 sparkle:edSignature="YSHrZU5NezaHD9icNGfnMyTVtddmx7QcxjXD/JYoy5A8ywcSex4QZ7J8QCgFWqBeX5u+0aTdAwzDzpjx6YHqAw=="
+                 length="2942149"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.14.1</title>
       <description><![CDATA[
 <h3>Charte reliée au hub : couleurs et styles de texte lus dans Ressources › Charte graphique, modifiables depuis Frame (écrits dans le hub avec une version), relus au retour sur la fenêtre ; charte intégrée en secours</h3>
