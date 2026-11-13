@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.13.2</title>
+      <description><![CDATA[
+<h3>Accueil en ligne : aperçu de chaque document (PNG dessiné par l'éditeur, rangé par le serveur), liste en grille de cartes</h3>
+      ]]></description>
+      <pubDate>Fri, 13 Nov 2026 02:21:31 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.13.2/Frame-0.13.2.zip"
+                 sparkle:edSignature="kwBxmXeMEeUUGFbx5nQbLVqiy+VBemyCJANrCE3ygR0wH8y5CFk2I5Pr2oYiJUlGfbdwbf5RLpLe/QW97ZJtDw=="
+                 length="2857944"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.1</title>
       <description><![CDATA[
 <h3>I1 : charte du brandbook (nuancier, échelle de texte, huit gabarits aux règles) ; DM Sans reste faute de licence Suisse BP Int'l</h3>
