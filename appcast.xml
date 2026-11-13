@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.13.3</title>
+      <description><![CDATA[
+<h3>Aperçus de l'accueil : premier cadre de la page, second envoi une fois les photos chargées, fond clair lisible dans les deux thèmes</h3>
+      ]]></description>
+      <pubDate>Fri, 13 Nov 2026 02:30:08 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/Frame-Share/releases/download/v0.13.3/Frame-0.13.3.zip"
+                 sparkle:edSignature="pCmq73SfrRkHoMxKjTTfIEVS6QSM8heWu9LnC4+au4UpG+15NZSq8RxzvULqRogmoorI3p/SqSDMMrap1RdPCg=="
+                 length="2857968"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.2</title>
       <description><![CDATA[
 <h3>Accueil en ligne : aperçu de chaque document (PNG dessiné par l'éditeur, rangé par le serveur), liste en grille de cartes</h3>
